@@ -1,0 +1,7 @@
+setup.py
+matematica/__init__.py
+matematica/operaciones.py
+miquete.egg-info/PKG-INFO
+miquete.egg-info/SOURCES.txt
+miquete.egg-info/dependency_links.txt
+miquete.egg-info/top_level.txt
